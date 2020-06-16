@@ -7,39 +7,46 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Suraj Kumar Dey
-    tagline: Software Developer
+    name: Alan Doe
+    tagline: Full Stack Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: surajdey8603@gmail.com
-    phone: +91-7008248521
+    email: hello@webjeda.com
+    phone: 012 345 6789
+    website: blog.webjeda.com #do not add http://
     linkedin: alandoe
-    github: suraj1709
-   
+    github: sharu725
+    telegram: # add your nickname without '@' sign
+    gitlab:
+    bitbucket:
+    twitter: '@webjeda'
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
       - idiom: English
         level: Native
 
-      - idiom: Hindi
+      - idiom: French
         level: Professional
 
-      - idiom: Bengali
+      - idiom: Spanish
         level: Professional
 
     interests:
-      - item: Numismatics
+      - item: Climbing
         link:
 
-      - item: Adventure travel
+      - item: Snowboarding
         link:
 
-      - item: Coding
+      - item: Cooking
         link:
 
 career-profile:
-    title: Software Developer
+    title: Career Profile
     summary: |
       Summarise your career here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. You can [download this free resume/CV template here]().
