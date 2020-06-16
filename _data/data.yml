@@ -42,51 +42,26 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Software Engineer with keen enthusiasm in programming with strong analytics and problem-solving skills.
+      Seeking to leverage my skills with passion and creativity toward organizational growth.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+    - degree: Bachelor of Technology: Electrical Engineering
+      university: Orissa Engineering College
+      time: 2013 - 2017
+      
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Developer
+      time: 2017 - Present
+      company: Tata Consultancy Services, Kolkata
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
+        - Design and Developed several sever side RESTful API using Spring Framework with complex business logic for large scale distributed system.
+        - Design and Developed an application for automatic failure notification through call service during COVID-19 using Python Flask web-service which made a profit of 5-10% increase in overall business. 
+        - Developed Java libraries for commonly used component like HTTP Connector, JSON to XML Parser, CSV to XML Parser.
+        - Strong Knowledge of design patterns and highly scalable system design.
+        - Knowledge of cloud architectural components and distributed computing.
+        - Experience with iterative development life cycle methodologies and application of those principles, especially Agile development practices.
+Technology and Tool Stack: Java 8, Spring Boot, Spring ORM, Spring MVC, Kafka, Git, Docker, Python 3, Flask, No-SQL, MySQL, Redis, Elastic Search, IntelliJ IDE, Anaconda.
+
     - role: Senior Software Engineer
       time: 2014 - 2015
       company: Google, London
