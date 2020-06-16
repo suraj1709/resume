@@ -93,47 +93,46 @@ projects:
         
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Primary Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Data Structure & Algorithm
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: Java 8 
         level: 98%
 
-      - name: Angular
+      - name: SQL & NO-SQL Database
         level: 98%
 
-      - name: HTML5 & CSS
+      - name: Python 3
         level: 95%
 
-      - name: Ruby on Rails
+      - name: Spring MVC & Spring Cloud 
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: SOA & Microservice
+        level: 70%
         
         
 skills:
-    title: Skills &amp; Proficiency
+    title: Secondary Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: JavaScript 
+        level: 75%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: HTML5 & CSS3
+        level: 70%
 
-      - name: Angular
-        level: 98%
+      - name: Machine Learning
+        level: 70%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: Docker & CICD Tools
+        level: 70%
 
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
+      - name: Flask
         level: 60%
+
+     
 
