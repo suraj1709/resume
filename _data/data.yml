@@ -7,14 +7,14 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Suraj Kumar Dey
+    name: Suraj Dey
     tagline: Software Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: surajdey8603@gmail.com
     phone: +91-7008248521
-    linkedin: alandoe
+    linkedin: suraj-dey-72822a124
     github: suraj1709
     stack-overflow: 11727350/suraj-dey
    
