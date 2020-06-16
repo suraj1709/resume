@@ -76,31 +76,21 @@ experiences:
   
 projects:
     title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
+      - title: Healthy Food Application
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "Design and Developed server-side RESTful API for application using spring and security with JWT Token implementation."
+        details: | 
+            - Technology and Tool Stack: Java 8, Spring Cloud, Spring MVC, Spring JPA, MongoDB, Redis, Oracle 12c, Docker.
+      - title: Flood Fill Algorithm
+        link: "floodfillalgo.netlify.app"
+        tagline: "Developed Web Application to demonstrate the internal work of MS-Paint using Breath First Search algorithm."
 
-      - title: DevStudio
+      - title: SnapChat Feature
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "Developed an AI algorithm which include face filter"
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
+   
 publications:
     title: Publications
     intro: |
