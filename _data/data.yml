@@ -92,7 +92,7 @@ projects:
         
         
 
-skills:
+primaryskills:
     title: Primary Skills &amp; Proficiency
 
     toolset:
@@ -115,7 +115,7 @@ skills:
         level: 70%
         
         
-skills:
+secondaryskills:
     title: Secondary Skills &amp; Proficiency
 
     toolset:
