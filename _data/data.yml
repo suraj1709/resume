@@ -60,7 +60,7 @@ experiences:
         - Strong Knowledge of design patterns and highly scalable system design.
         - Knowledge of cloud architectural components and distributed computing.
         - Experience with iterative development life cycle methodologies and application of those principles, especially Agile development practices.
-      - Technology and Tool Stack:  Java 8, Spring Boot, Spring ORM, Spring MVC, Kafka, Git, Docker, Python 3, Flask, No-SQL, MySQL, Redis, Elastic Search, IntelliJ IDE, Anaconda.
+         Technology and Tool Stack:  Java 8, Spring Boot, Spring ORM, Spring MVC, Kafka, Git, Docker, Python 3, Flask, No-SQL, MySQL, Redis, Elastic Search, IntelliJ IDE, Anaconda.
 
     - role: Senior Software Engineer
       time: 2014 - 2015
