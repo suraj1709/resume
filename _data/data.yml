@@ -81,7 +81,7 @@ projects:
         tagline: "Design and Developed server-side RESTful API for application using spring and security with JWT Token implementation."
 
       - title: Flood Fill Algorithm
-        link: "floodfillalgo.netlify.app"
+        link: "#floodfillalgo.netlify.app"
         tagline: "Developed Web Application to demonstrate the internal work of MS-Paint using Breath First Search algorithm."
 
       - title: SnapChat Feature
