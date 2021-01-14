@@ -54,8 +54,8 @@ experiences:
       time: Oct,2020 - Present
       company: CITI Bank
       details: |
-        - Developed RESTful Web Services for ICRM Search Service using Spring Boot and Hibernate with complex business logic for large scale distributed system.
-        - Written JUnit for the Services using Mockio with 100% coverage.
+        - Developed RESTful Web Services for ICRM Search using Spring Boot and Hibernate with complex business logic for large scale distributed system.
+        - Written JUnit for the Services using Mockito with 100% coverage.
         - Knowledge of cloud architectural components and distributed computing.
         - Experience with iterative development life cycle methodologies and application of those principles, especially Agile development practices.
         
@@ -67,8 +67,6 @@ experiences:
         - Design and Developed an application for automatic failure notification through call service during COVID-19 using Python Flask web-service which made a profit of 5-10% increase in overall business. 
         - Developed Java libraries for commonly used component like HTTP Connector, JSON to XML Parser, CSV to XML Parser.
         - Strong Knowledge of design patterns and highly scalable system design.
-        - Knowledge of cloud architectural components and distributed computing.
-        - Experience with iterative development life cycle methodologies and application of those principles, especially Agile development practices.
 
     - role: Developer
       time: July,2017 - Sep,2017
@@ -78,7 +76,6 @@ experiences:
           - Developed Web Pages responsive and User interactive using JavaScript and jQuery.
           - Fixed issue related to the application performance with replacement of complex algorithm with more efficient algorithm.
           - Junit Testing of each services with 100% coverage.
-          - Peers review of code for better and efficient code.
           
 
   
