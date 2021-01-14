@@ -50,8 +50,16 @@ education:
       time: 2013 - 2017
       
 experiences:
+     - role: Programmer Analyst 2
+      time: Oct,2020 - Present
+      company: CITI Bank
+      details: |
+        - Developed RESTful Web Services for ICRM Search Service using Spring Boot and Hibernate with complex business logic for large scale distributed system.
+        - Written JUnit for the Services using Mockio with 100% coverage.
+        - Knowledge of cloud architectural components and distributed computing.
+        - Experience with iterative development life cycle methodologies and application of those principles, especially Agile development practices.
     - role: Developer
-      time: Oct,2017 - Present
+      time: Oct,2017 - Sep,2020
       company: Tata Consultancy Services, Kolkata
       details: |
         - Design and Developed several sever side RESTful API using Spring Framework with complex business logic for large scale distributed system.
