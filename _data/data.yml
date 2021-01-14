@@ -58,6 +58,7 @@ experiences:
         - Written JUnit for the Services using Mockio with 100% coverage.
         - Knowledge of cloud architectural components and distributed computing.
         - Experience with iterative development life cycle methodologies and application of those principles, especially Agile development practices.
+        
     - role: Developer
       time: Oct,2017 - Sep,2020
       company: Tata Consultancy Services, Kolkata
@@ -76,7 +77,7 @@ experiences:
           - Design and Developed a Web Application using Monolith architecture as per business requirement using Java Servlet and JSP.
           - Developed Web Pages responsive and User interactive using JavaScript and jQuery.
           - Fixed issue related to the application performance with replacement of complex algorithm with more efficient algorithm.
-          - Junit Testing of each services with different scenario.
+          - Junit Testing of each services with 100% coverage.
           - Peers review of code for better and efficient code.
           
 
