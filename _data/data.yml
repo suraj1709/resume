@@ -59,24 +59,14 @@ experiences:
         - Knowledge of cloud architectural components and distributed computing.
         - Experience with iterative development life cycle methodologies and application of those principles, especially Agile development practices.
         
-    - role: Developer
-      time: Oct,2017 - Sep,2020
+    - role: Software Developer
+      time: July,2017 - Sep,2020
       company: Tata Consultancy Services, Kolkata
       details: |
         - Design and Developed several sever side RESTful API using Spring Framework with complex business logic for large scale distributed system.
         - Design and Developed an application for automatic failure notification through call service during COVID-19 using Python Flask web-service which made a profit of 5-10% increase in overall business. 
         - Developed Java libraries for commonly used component like HTTP Connector, JSON to XML Parser, CSV to XML Parser.
         - Strong Knowledge of design patterns and highly scalable system design.
-
-    - role: Developer
-      time: July,2017 - Sep,2017
-      company: Tata Consultancy Service, Trivandrum
-      details: |
-          - Design and Developed a Web Application using Monolith architecture as per business requirement using Java Servlet and JSP.
-          - Developed Web Pages responsive and User interactive using JavaScript and jQuery.
-          - Fixed issue related to the application performance with replacement of complex algorithm with more efficient algorithm.
-          - Junit Testing of each services with 100% coverage.
-          
 
   
 projects:
